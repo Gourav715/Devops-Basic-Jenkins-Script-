@@ -14,8 +14,7 @@ pipeline {
         REGISTRY_HOST = '172.17.0.1'
         REGISTRY_URL = '172.17.0.1:5000'
         REGISTRY_IMAGE = '172.17.0.1:5000/vainterior-app'
-        REGISTRY_USER = 'admin'
-        REGISTRY_PASS = 'admin123'
+
     }
 
     stages {
